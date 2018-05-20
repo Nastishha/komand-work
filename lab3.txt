@@ -1,2 +1,4 @@
 I am Nastya
 I am 18 y.o. 
+I study in Lviv
+#author: Nastya Shalavylo (nastya.shalavylo@i.ua)
